@@ -1,0 +1,5 @@
+# ~/.Xresources.d/rofi
+rofi.separator-style :solid
+rofi.font : PragmataPro Mono Liga 14
+rofi.lines :10
+rofi.width :800

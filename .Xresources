@@ -1,0 +1,10 @@
+# ~/.Xresources
+Xft.autohin : 0
+Xft.lcdfilter : lcddefault
+Xft.hintstyle : hintnone
+Xft.hinting : 0
+Xft.antialias : 1
+Xft.rgba : rgb
+Xcursor.size : 16
+
+#include ".Xresources.d/rofi"
